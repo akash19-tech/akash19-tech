@@ -2,7 +2,7 @@ Hi, I am Akash Mishra currently in 4th year of Btech Computer Science Engineerin
 
 
 # 💫 About Me:
-🔭 I’m currently working on Computer Vision<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with getting internship<br>🌱 I’m currently learning Computer Vision<br>💬 Ask me about coding, DSA<br>⚡ Fun fact I love writing
+🔭 I’m currently working on Computer Vision<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with getting internship<br>🌱 I’m currently learning Computer Vision<br>💬 Ask me about coding, DSA, Data Science, Machine Learning and Deep Learning<br>⚡ Fun fact I love writing
 
 
 ## 🌐 Socials:

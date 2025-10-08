@@ -1,9 +1,12 @@
-Hi, I am Akash Mishra currently in 4th year of Btech Computer Science Engineering and Specialization in Data Science. I love playing with Data which makes me so curious to know the various aspects about Data Science i am currently working on building my knowledge and being very good at Data Science. I would love to connect with you.
+Hi, I’m Akash Mishra — I graduated in June 2025 with a B.Tech in Computer Science Engineering (specialization in Data Science).
 
+I’ve had the chance to work as a Data Science Intern at Pranjali Growcap (HFT), where I focused on trading strategies, backtesting optimization, real-time dashboards, and implementing machine learning techniques to enhance the trading Algorithms, and at Feynn Labs, where I worked on data preprocessing, visualization, and building ML models. These experiences gave me exposure to both technical challenges and team collaboration.
 
-# 💫 About Me:
-🔭 I’m currently working on Computer Vision<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with getting internship<br>🌱 I’m currently learning Computer Vision<br>💬 Ask me about coding, DSA, Data Science, Machine Learning and Deep Learning<br>⚡ Fun fact I love writing
+I’m deeply interested in Machine Learning, AI, and Data Science, and I enjoy exploring how AI can be applied to solve real-world problems. Along with strong skills in Python, ML, and data analytics, I bring qualities like curiosity, adaptability, and problem-solving that help me contribute effectively in team environments.
 
+Right now, I’m looking for opportunities where I can apply my skills, learn continuously, and grow as a professional while contributing to impactful AI/ML projects.
+
+Always open to connecting with like-minded people in tech, AI, and data.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamakash.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akashmishra190) 
